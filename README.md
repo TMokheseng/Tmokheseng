@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Thapelo 👋
+I'm a junior developer specializing in **backend development** and **web technologies**.
 
-<!--
-**TMokheseng/Tmokheseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- **Languages:** Java, C#, HTML, CSS, JavaScript, Python (basic)
+- **Web Development:** Responsive websites, landing pages, booking systems
+- **Backend:** Servlets, JSPs, REST APIs
+- **Tools:** Git, GitHub, Netlify, Eclipse, Visual Studio Code, NetBeans
 
-Here are some ideas to get you started:
+## 💼 Projects
+- **God First Barbershop Website** → [Demo Link](https://yourdemo.netlify.app)  
+- **Shell Garage Discount App** (Java)  
+- **Medical Consultation Booking System** (JSP + Servlet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: [Your LinkedIn link here]  
+- Email: youremail@example.com
