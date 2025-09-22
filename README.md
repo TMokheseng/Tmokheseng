@@ -13,5 +13,5 @@ I'm a junior developer specializing in **backend development** and **web technol
 - **Medical Consultation Booking System** (JSP + Servlet)
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn link here]  
-- Email: youremail@example.com
+- LinkedIn: [Thapelo Mokheseng]  
+- Email: 
